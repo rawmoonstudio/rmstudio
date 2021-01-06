@@ -2,10 +2,10 @@
 template: index-page
 slug: /
 title: RM Studio
-tagline: Graphic Designer
+tagline: Robin Mustonen
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: For inquiries or contact
+  ctaLink: /info
 ---
-\[insert text om rm studio]
+Raw Moon Studio. Contemporary furniture & custom designs. Specializes in steel & leather.
