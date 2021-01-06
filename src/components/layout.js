@@ -36,7 +36,7 @@ const Layout = ({ children, className, props }) => {
       </Header>
 
       <main className={"container " + className}>{children}</main>
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }

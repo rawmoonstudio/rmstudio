@@ -12,6 +12,7 @@
 }
 
 .site-header {
+	// opacity: 0.4;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -126,9 +127,10 @@
 .video-image-container {
 	object-fit: cover;
 	width: 100vw;
-	height: 115vh;
+	
+	height: 134vh;
 	position: fixed;
-	top: -2vh;
+	top: -17vh;
 	left: 0;
 	opacity: 0.4;
 	z-index: -1;
