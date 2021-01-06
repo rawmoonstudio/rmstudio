@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: RM Studio
+title: R.M. Studio
 tagline: Robin Mustonen
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
