@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react"
-import loop from "../../static/assets/loop.mp4"
+import loop from "../../static/assets/loop420p.mp4"
 
 const VideoBackground = () => {
   const videoElementRef = useRef(null)
