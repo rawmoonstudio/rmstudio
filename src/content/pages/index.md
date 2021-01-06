@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: R.M. Studio
 tagline: Robin Mustonen
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/ezgif.com-gif-maker.gif
 cta:
   ctaText: For inquiries / Contact
   ctaLink: /info
