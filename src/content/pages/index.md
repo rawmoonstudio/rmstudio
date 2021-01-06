@@ -8,4 +8,4 @@ cta:
   ctaText: For inquiries / Contact
   ctaLink: /info
 ---
-Raw Moon Studio. Contemporary furniture & custom designs. Specializes in steel & leather.
+ Contemporary furniture & custom designs
