@@ -123,6 +123,17 @@
 .site-logo-image {
 	width: 60px;
 }
+.video-image-container {
+	object-fit: cover;
+	width: 100vw;
+	height: 115vh;
+	position: fixed;
+	top: -2vh;
+	left: 0;
+	opacity: 0.4;
+	z-index: -1;
+}
+
 .home-banner {
 	padding: 60px 0;
 	align-items: center;

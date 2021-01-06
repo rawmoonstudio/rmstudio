@@ -3,6 +3,7 @@ import { jsx } from "theme-ui"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import { RiArrowRightSLine } from "react-icons/ri"
+import VideoBackground from "../components/video-background"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -49,7 +50,7 @@ const HomePage = ({ data }) => {
   return (
     <Layout>
       <SEO />
-
+      <VideoBackground />
       <div>
         {Image ? (
           <Img
@@ -63,20 +64,20 @@ const HomePage = ({ data }) => {
       </div>
       <div className="home-banner grids col-1 sm-2">
         <div>
-          <h1 className="title">{frontmatter.title}</h1>
-          <p
+          {/* <h1 className="title">{frontmatter.title}</h1> */}
+          {/* <p
             className="tagline"
             sx={{
               color: "muted",
             }}
           >
             {frontmatter.tagline}
-          </p>
+          </p> */}
           <div
             className="description"
             dangerouslySetInnerHTML={{ __html: html }}
           />
-          <Link
+          {/* <Link
             to={frontmatter.cta.ctaLink}
             className="button"
             sx={{
@@ -87,7 +88,7 @@ const HomePage = ({ data }) => {
             <span className="icon -right">
               <RiArrowRightSLine />
             </span>
-          </Link>
+          </Link> */}
         </div>
       </div>
       {/* <BlogListHome /> */}
