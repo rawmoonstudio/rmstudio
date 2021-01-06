@@ -49,6 +49,18 @@ const HomePage = ({ data }) => {
   return (
     <Layout>
       <SEO />
+
+      <div>
+        {Image ? (
+          <Img
+            fluid={Image}
+            alt={frontmatter.title + " - Featured image"}
+            className="featured-image"
+          />
+        ) : (
+          ""
+        )}
+      </div>
       <div className="home-banner grids col-1 sm-2">
         <div>
           <h1 className="title">{frontmatter.title}</h1>
@@ -76,17 +88,6 @@ const HomePage = ({ data }) => {
               <RiArrowRightSLine />
             </span>
           </Link>
-        </div>
-        <div>
-          {Image ? (
-            <Img
-              fluid={Image}
-              alt={frontmatter.title + " - Featured image"}
-              className="featured-image"
-            />
-          ) : (
-            ""
-          )}
         </div>
       </div>
       {/* <BlogListHome /> */}
