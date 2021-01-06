@@ -4,9 +4,9 @@
     "titleTemplate": "%s",
     "description": "Raw Moon Studio. Contemporary furniture & custom designs. Specializes in steel & leather.",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/rmlogo.png",
+    "iconimage": "/assets/favicon.ico",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
