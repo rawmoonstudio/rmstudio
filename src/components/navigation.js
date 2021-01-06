@@ -7,8 +7,8 @@ import Theme from "../components/theme"
 
 const MenuItems = [
   {
-    path: "/blog",
-    title: "Blog",
+    path: "/objects",
+    title: "Objects",
   },
   {
     path: "/info",

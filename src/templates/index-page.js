@@ -73,10 +73,10 @@ const HomePage = ({ data }) => {
           >
             {frontmatter.tagline}
           </p> */}
-          <div
+          {/* <div
             className="description"
             dangerouslySetInnerHTML={{ __html: html }}
-          />
+          /> */}
           {/* <Link
             to={frontmatter.cta.ctaLink}
             className="button"
