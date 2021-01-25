@@ -7,6 +7,7 @@ import { useColorMode } from "theme-ui"
 const Theme = () => {
   const [colorMode, setColorMode] = useColorMode("dark")
   console.log("colormode is ", colorMode)
+  return null
   return (
     <div sx={themeStyles.modeOption}>
       <button
