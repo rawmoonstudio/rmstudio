@@ -18,7 +18,7 @@ export default {
         accent: "#5C2941",
         muted: "rgba(255, 255, 255, 0.7)",
         buttonAccent: "#fff",
-        cardBg: "#252525",
+        cardBg: "#111",
         borderColor: "#888",
         labelText: "#777",
         inputBorder: "#777",

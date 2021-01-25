@@ -57,10 +57,13 @@ class Navigation extends React.Component {
         </button>
         <ul>
           {listMenuItems}
+          <li>
+            <a target="_blank" href="https://instagram.com/rawmoonstudio">
+              Instagram
+            </a>
+          </li>
           <div sx={navStyle.border}></div>
-          <div sx={navStyle.theme}>
-            <Theme />
-          </div>
+          <div sx={navStyle.theme}>{/* <Theme /> */}</div>
         </ul>
       </nav>
     )
