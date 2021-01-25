@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react"
 import loop from "../../static/assets/loop420p.mp4"
+import loopPoster from "../../static/assets/loop-poster.png"
 
 const VideoBackground = () => {
   const videoElementRef = useRef(null)
@@ -19,7 +20,7 @@ const VideoBackground = () => {
         autoPlay
         muted
         loop
-        poster="loop-poster.png"
+        poster={loopPoster}
         id="bgvid"
         ref={videoElementRef}
       >
