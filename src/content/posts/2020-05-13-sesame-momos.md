@@ -1,9 +1,13 @@
 ---
 template: blog-post
-title: Sesame Momos & Gaming
-slug: /sesame-momos
-date: 2020-05-13 12:47
-description: Sesame Momos
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+title: Sculptural lamp in patinated steel and leather
+slug: /Patinate /steel /lamp
+date: 2021-02-01 16:22
+description: Sculptural lamp in patinated steel and leather
+featuredImage: /assets/rm-2000px-contacts-53.jpg
 ---
-Sesame Momos
+![](/assets/rm-2000px-contacts-185.jpg)
+
+![](/assets/rm-2000px-contacts-192.jpg)
+
+![](/assets/rm-2000px-contacts-189.jpg)
