@@ -15,6 +15,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             id
             frontmatter {
               slug
+              draft
               template
               title
             }
