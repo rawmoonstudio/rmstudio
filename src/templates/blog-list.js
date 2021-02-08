@@ -99,7 +99,6 @@ class BlogIndex extends React.Component {
     const prevPage =
       currentPage - 1 === 1 ? blogSlug : blogSlug + (currentPage - 1).toString()
     const nextPage = blogSlug + (currentPage + 1).toString()
-    debugger
     const posts = data.allMarkdownRemark.edges
       .filter(edge => !!edge.node.frontmatter.date)
       .filter(edge => !edge.node.frontmatter.draft)
