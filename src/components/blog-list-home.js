@@ -45,6 +45,7 @@ export default function BlogListHome() {
                 excerpt(pruneLength: 250)
                 frontmatter {
                   date(formatString: "MMMM DD, YYYY")
+                  draft
                   slug
                   title
                   featuredImage {

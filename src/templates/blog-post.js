@@ -80,6 +80,11 @@ const Post = ({ data, pageContext }) => {
     next,
   }
 
+  if (frontmatter && frontmatter.draft) {
+    console.log("draft", frontmatter.draft)
+    return null
+  }
+
   return (
     <Layout className="page">
       <SEO
@@ -129,6 +134,7 @@ export const pageQuery = graphql`
       excerpt(pruneLength: 148)
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        draft
         slug
         title
         description
