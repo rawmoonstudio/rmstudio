@@ -42,18 +42,18 @@ export const pageQuery = graphql`
 `
 
 const HomePage = ({ data }) => {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark
-  const Image =
-    frontmatter.featuredImage && frontmatter.featuredImage.childImageSharp
-      ? frontmatter.featuredImage.childImageSharp.fluid
-      : ""
+  // const { markdownRemark } = data // data.markdownRemark holds your post data
+  // const { frontmatter, html } = markdownRemark
+  // const Image =
+  //   frontmatter.featuredImage && frontmatter.featuredImage.childImageSharp
+  //     ? frontmatter.featuredImage.childImageSharp.fluid
+  //     : ""
   return (
     <Layout>
       <SEO />
       <VideoBackground />
       <div>
-        {Image ? (
+        {/* {Image ? (
           <Img
             fluid={Image}
             alt={frontmatter.title + " - Featured image"}
@@ -61,7 +61,7 @@ const HomePage = ({ data }) => {
           />
         ) : (
           ""
-        )}
+        )} */}
       </div>
       <div className="home-banner grids col-1 sm-2">
         <div>
