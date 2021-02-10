@@ -68,7 +68,7 @@ module.exports = {
     },
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
-    'gatsby-plugin-theme-ui',
+    "gatsby-plugin-theme-ui",
     `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -77,18 +77,18 @@ module.exports = {
       },
     },
     `gatsby-plugin-advanced-sitemap`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
-        start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
-        icon: "static" + settings.meta.iconimage,
-      },
-    },
-    'gatsby-plugin-offline',
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: `Foundation`,
+    //     short_name: `Foundation`,
+    //     start_url: `/`,
+    //     background_color: `#f7f0eb`,
+    //     theme_color: `#a2466c`,
+    //     display: `standalone`,
+    //     icon: "static" + settings.meta.iconimage,
+    //   },
+    // },
+    // 'gatsby-plugin-offline',
   ],
 }
