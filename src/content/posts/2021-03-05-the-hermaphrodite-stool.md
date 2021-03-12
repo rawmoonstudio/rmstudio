@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: The Hermaphrodite stool
+title: The Androgyny Stool
 slug: /Stool/leather/design/steel/interior
 date: 2021-03-05 13:25
 description: |-
