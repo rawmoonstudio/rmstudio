@@ -10,4 +10,4 @@ featuredImage: /assets/img_1110.jpg
 
 ![](/assets/rm-2000px-contacts-74.jpg)
 
-![](/assets/rm-2000px-contacts-74.jpg)
+![]()
