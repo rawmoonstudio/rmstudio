@@ -8,6 +8,8 @@ description: |-
   Carved steel and shaped leather
 featuredImage: /assets/robin-pord-3.jpg
 ---
-![](/assets/robin-pord-8.jpg)
+![Carved steel and vegetable tanned leather](/assets/robin-pord-8.jpg)
+
+![](/assets/img_1247.jpg)
 
 ![](/assets/robin-pord-7.jpg)
