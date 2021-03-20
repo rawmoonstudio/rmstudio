@@ -4,8 +4,10 @@ title: Hot rolled chair
 slug: /steel/chairs/design/interior
 date: 2021-03-05 13:20
 description: Flexible chair in hotrolled steel
-featuredImage: /assets/robin-pord-4.jpg
+featuredImage: /assets/img_1108.jpg
 ---
-![](/assets/robin-pord-1.jpg)
+![](/assets/img_1108.jpg)
 
-![](/assets/robin-pord-2.jpg)
+![](/assets/img_1117.jpg)
+
+![](/assets/img_1113.jpg)
