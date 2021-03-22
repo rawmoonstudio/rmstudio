@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Console table
-slug: consoletable/design/steel/glass
+slug: /consoletable/design/steel/glass
 date: 2021-03-20 10:10
 description: |-
   Patinated steel frame with hand-carved details. 
