@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Sculpture "Crescent"
+title: '"Crescent" Sculpture'
 slug: /sculpture/brass/wood/steel
 date: 2021-03-20 10:40
 description: Sculpture in leftover brass, burned wood and steel
