@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /info
-title: About RM Studio
+title: Info
 featuredImage: /assets/vlcsnap-2021-01-06-15h50m33s020.png
 ---
 Robin Mustonen2 is a self-taught designer & maker with a background in the steel industry.
