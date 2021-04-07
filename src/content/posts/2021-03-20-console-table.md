@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Console table
+title: '"Craft" Console table'
 slug: /consoletable/design/steel/glass
 date: 2021-03-20 10:10
 description: |-
