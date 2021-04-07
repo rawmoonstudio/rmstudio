@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Hot rolled chair
+title: The h-chair
 slug: /steel/chairs/design/interior
 date: 2021-03-05 13:20
 description: Flexible chair in hotrolled steel
