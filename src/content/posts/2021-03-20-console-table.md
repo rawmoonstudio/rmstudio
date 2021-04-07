@@ -10,8 +10,8 @@ featuredImage: /assets/img_1229.jpg
 ---
 ![](/assets/img_1229.jpg)
 
-![](/assets/rm-2000px-contacts-106.jpg)
+![](/assets/img_1413.jpg)
 
 ![](/assets/img_1228.jpg)
 
-![](/assets/img_1245.jpg)
+![](/assets/img_1246-copy.jpg)
