@@ -1,13 +1,13 @@
 ---
 template: blog-post
-title: Sculptural lamp in patinated steel and leather
-slug: /Patinate/steel/lamp
+title: '"Theia" Sculptural lamp '
+slug: /Patinated/patina/steel/lamp/sculptor
 date: 2021-02-01 16:22
 description: Sculptural lamp in patinated steel and leather
 featuredImage: /assets/rm-2000px-contacts-53.jpg
 ---
-![](/assets/rm-2000px-contacts-185.jpg)
-
-![](/assets/rm-2000px-contacts-192.jpg)
+![](/assets/img_1206.jpg)
 
 ![](/assets/img_1112.jpg)
+
+![](/assets/img_1227.jpg)
