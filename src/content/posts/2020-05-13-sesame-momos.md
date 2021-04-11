@@ -14,6 +14,4 @@ featuredImage: /assets/img_1111.jpg
 
 Carved and patinated steel, welded lamp-shade with leather.
 
-Dimension: 
-
 Contact for price request
