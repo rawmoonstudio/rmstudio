@@ -62,7 +62,7 @@ class Navigation extends React.Component {
               Instagram
             </a>
           </li>
-          <div sx={navStyle.border}></div>
+          {/* <div sx={navStyle.border}></div> */}
           <div sx={navStyle.theme}>
             <Theme />
           </div>
