@@ -12,4 +12,8 @@ featuredImage: /assets/rm-2000px-contacts-53.jpg
 
 ![](/assets/img_1227.jpg)
 
+Carved and patinated steel, welded lamp-shade with leather.
+
+Dimension: 
+
 Contact for price request
