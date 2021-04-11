@@ -10,6 +10,6 @@ featuredImage: /assets/rm-2000px-contacts-53.jpg
 
 ![](/assets/img_1112.jpg)
 
-!["Theia" Sculptural lamp, Contact for price request](/assets/img_1227.jpg)
+![](/assets/img_1227.jpg)
 
 Contact for price request
