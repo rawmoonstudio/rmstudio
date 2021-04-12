@@ -16,4 +16,6 @@ Robin@rawmoonstudio.com
 
 +46709499456
 
+Stockholm, Sweden
+
 ![Portrait of Robin Mustonen](/assets/jens-robin-contacts-76.jpg "Robin Mustonen")
